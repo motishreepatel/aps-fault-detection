@@ -38,4 +38,5 @@ for idx, record in enumerate(all_record):
 # files or folders in that directory
 # git official document with all codes - https://git-scm.com/docs/git-reset
 # if we will use redirect the other commits to a single commit is called soft reset. if we delete other commits and put 
-# them in a single commit is called hard reset. So lets do soft reset.
+# them in a single commit is called hard reset. So lets do soft reset. git add . means we have added all files to staging area
+

@@ -46,4 +46,6 @@ if __name__ == "__main__" :
     # now we will create a new variable to submit this code to a new github repo. Usually variable name taken is 'origin'.
     # for this we will go to main.py and create this new variable in terminal
 
+# so when more than one person are working in the same project, it will show who has done what commit and at what time.
+# git push origin main -f -> here -f because we are pushing it forcefully
 
